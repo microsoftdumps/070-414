@@ -2,7 +2,7 @@
 Lastest Microsoft 070-414 Certification Exam - 100% Pass Guarantee
 
 QUESTION 1 
-You need to configure RDS to use certificates to meet the sales department requirements. 
+You need to configure RDS to use certificates [070-414 dumps](http://www.kingdump.com/070-414.html) to meet the sales department requirements. 
 What should you do? 
 A. On the RD Virtualization Host servers, install a certificate in the personal store of the local computer. 
 B. On the RD Web Access servers, edit the properties of the RDWeb website. 
